@@ -1,0 +1,3 @@
+Main-Class: main
+
+jar cvfe inlupp.jar main Background.class CityPost.class GUI$avslutaList.class GUI$changeEdgeList.class GUI$citiesList.class GUI$findList.class GUI$MouseList.class GUI$newBGList.class GUI$newEdgeList.class GUI$newNodeList.class GUI$SelectionList.class GUI$showEdgeList.class GUI.class main.class Node.class graphs
